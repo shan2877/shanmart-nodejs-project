@@ -1,0 +1,10 @@
+02:03:14.657 INFO  Called at2020-06-09T06:03:14.657Z 
+02:09:30.539 INFO  Called at2020-06-09T06:09:30.539Z 
+02:09:38.186 INFO  {"pname":"Bed","ptype":"home","price":1000} 
+02:11:32.551 INFO  Called at2020-06-09T06:11:32.550Z 
+02:11:45.887 INFO  {"pname":"Bed","ptype":"home","price":1000}POST 
+06:39:52.798 INFO  {}GET 
+10:43:42.866 INFO  {"pname":"Laptop","ptype":"Computer","price":"600"}POST 
+10:44:38.008 INFO  {}GET 
+10:55:39.502 INFO  {"pname":"mouse","ptype":"computer","price":"10"}POST 
+10:55:42.936 INFO  {}GET 
